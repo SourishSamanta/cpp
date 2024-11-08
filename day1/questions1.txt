@@ -1,0 +1,4 @@
+1.A person wants to go from sealdah to barasat and wants to check if Madhyamgram is there or not. WAP in c to to check if he has found is his destination or not.
+2.prabhat sir has came into the class,sir wants to check that debasmita is present in the class or not.
+3.write a c program to implement bubble sort and if the array is sorted then it will not iterate anymore.
+4.write a program to check if a string is palindrome or not without using any library function.

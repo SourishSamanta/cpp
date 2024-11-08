@@ -1,0 +1,6 @@
+1.WAP a c which will add 2 to distances given in feet and inches using struct
+2.wap to implement Fibonacci series using recursion 
+3.wap to count number of vowel and strings in switch case 
+4.wap to implement adamas uni semester marking system 
+5.wap c to access the array elements using pointers 
+6.wap c to implement copy and concatenate and compare two strings without using library function 

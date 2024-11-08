@@ -1,0 +1,2 @@
+1. write a cpp program that will calculate the simple interest where the rate of interest has a default value of 15%
+2. write a cpp program that will create a class which will calculate the area of triangle, circle and rectangle having the same name.

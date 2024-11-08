@@ -1,0 +1,4 @@
+1. Write a CPP program to implement the reverse of the pascal triangle.
+2. Write a CPP program to solve the tower of hanoi problem.
+3. Write a CPP class which will calculate the average marks of 10 students where 5 students belong to one section and other 5 belong to another section.
+4. Write a CPP program that will count the number of employee in the department and show their details.
